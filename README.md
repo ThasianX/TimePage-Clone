@@ -11,3 +11,6 @@ Ngl I didn't think any of this was possible in SwiftUI at first but once I start
 
 ## [Foldable and Expandable List](https://github.com/ThasianX/Foldable-And-Expandable-List-SwiftUI)
 <img src="https://github.com/ThasianX/GIFs/blob/master/Foldable-And-Expandable-List/demo.gif" width="300"/>
+
+## [WIP: ElegantColorPicker](https://github.com/ThasianX/ElegantColorPicker)
+<img src="https://github.com/ThasianX/GIFs/blob/master/ElegantColorPicker/timepage-colorpicker-demo.gif" width="300"/>
