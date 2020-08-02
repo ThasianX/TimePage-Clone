@@ -1,5 +1,5 @@
 # TimePage-Clone
-TimePage components written in SwiftUI.
+TimePage components written in SwiftUI. And UIKit, at least for `ElegantColorPalette`.
 
 Ngl I didn't think any of this was possible in SwiftUI at first but once I started typing that code... I discovered it was. 
 
